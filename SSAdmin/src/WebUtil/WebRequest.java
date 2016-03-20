@@ -6,5 +6,5 @@ package WebUtil;
 public abstract class WebRequest {
 
    public String username;
-    String KEY;
+    public String KEY;
 }

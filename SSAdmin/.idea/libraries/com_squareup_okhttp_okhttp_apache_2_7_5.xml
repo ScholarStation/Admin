@@ -9,6 +9,13 @@
       <root url="jar://$PROJECT_DIR$/lib/httpcore-4.2.2.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/okhttp-apache-2.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/okhttp-2.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/okio-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.6.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
